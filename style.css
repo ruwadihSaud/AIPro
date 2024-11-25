@@ -1,0 +1,131 @@
+
+.title {
+    text-align: center;
+    color:#081c15;
+}
+[data-testid="stHeader"] {
+    background: rgba(0,0,0,0);
+}
+    
+[data-testid="stToolbar"] {
+    right: 3rem;
+}
+    
+[data-testid="stVerticalBlock"] {
+    background-color: rgba(0,0,0,0);
+}
+
+header {
+        padding: 60px;
+        text-align: center;
+        background: #1A1D31;
+        color: white;
+        font-size: 30px;
+      }
+
+.fixed-header {
+        font-size: 13px;
+        color: rgb(57, 57, 57);
+    }
+
+    .sliders {
+        text-align: center;
+        font-weight: bold;
+    }
+
+.cn{
+    text-align: center;
+}
+
+.prediction{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #D0CECE;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.about{
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    vertical-align: bottom;
+    line-height: 200px;
+    color:#081c15;
+}
+
+.about-info{
+    text-align: left;
+    font-size: 15px;
+    color:#1A1D31;
+}
+
+.profile{
+    text-align: center;
+    font-size: 15px;
+    color:#383838;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0cece88;
+    border-radius: 10px;
+    width: 220px;
+    padding: 10px 0;
+}
+
+.name{
+    font-size: 18px;
+    color:#000000;
+    font-weight: bold;
+    font-variant-caps: petite-caps;
+}
+
+.img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+
+[class="css-629wbf edgvbvh10"]{
+    display: inline-block;
+    padding: 5px 20px;
+    background-color: #081c15;
+    text-align: center;
+}
+
+.fixed-header {
+    font-size: 15px;
+    color: rgb(57, 57, 57);
+    font-family: cursive;
+}
+
+div.stButton {
+    text-align:center;
+    font-size:30px;
+    }
+
+div.stButton > button:first-child{
+    text-align:center;
+    border-radius: 12px;
+    height: 1.25m;
+    width: 4.25em;
+    border: none;
+    background: linear-gradient(45deg,#c4324139,#c43241);
+    color:#FFFFFF;
+    }
+    
+div.stButton > button:hover {
+	border-style: solid;
+    border-color: linear-gradient(45deg,#c4324107,#01263d);
+    border-width: 1px;
+	background:#FFFFFF;
+    color:#c4324107;
+    }
+    
+div.stButton > button:active {
+    position:relative;
+	top:3px;
+    border-radius:10px;
+    }
